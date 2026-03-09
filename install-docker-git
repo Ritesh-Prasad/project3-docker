@@ -1,0 +1,3 @@
+apt install git docker.io -y
+start docker chmod 777
+///var/run/docker.sock
